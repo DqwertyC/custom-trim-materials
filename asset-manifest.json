@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/custom-trim-materials/static/css/main.eeb5a9a8.css",
+    "main.js": "/custom-trim-materials/static/js/main.80559bf7.js",
+    "static/js/787.8fa8b385.chunk.js": "/custom-trim-materials/static/js/787.8fa8b385.chunk.js",
+    "index.html": "/custom-trim-materials/index.html",
+    "main.eeb5a9a8.css.map": "/custom-trim-materials/static/css/main.eeb5a9a8.css.map",
+    "main.80559bf7.js.map": "/custom-trim-materials/static/js/main.80559bf7.js.map",
+    "787.8fa8b385.chunk.js.map": "/custom-trim-materials/static/js/787.8fa8b385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb5a9a8.css",
+    "static/js/main.80559bf7.js"
+  ]
+}
